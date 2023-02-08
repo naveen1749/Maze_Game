@@ -1,0 +1,2 @@
+Main-Class: org.example.New.Main
+Class-Path: lib/lib1.jar lib/lib2.jar
