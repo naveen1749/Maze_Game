@@ -1,5 +1,7 @@
 package org.example.New;
 
+import org.example.New.Components.Window;
+
 import javax.swing.*;
 
 public class Main {
